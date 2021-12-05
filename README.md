@@ -1,9 +1,8 @@
 <h1 align="center">
   Hello, there!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a><br>
-  I'm Yigit	
+  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
 </h1>
-
+<h3 align="center"> I'm Yiğit and Software Engineer</h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/s-yi%C4%9Fit-tosun/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,5 +32,5 @@
 - [Vue.js ve Angular.js arasındaki farklar!](https://yigttos.medium.com/vue-js-ve-angular-js-aras%C4%B1ndaki-farklar-65dd2f96fc92)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yigittosun&color=F0DB4F"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yigittosun&color=a6920f"/></p>
 ---
