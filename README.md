@@ -35,5 +35,5 @@
 - [Vue.js ve Angular.js arasındaki farklar!](https://yigttos.medium.com/vue-js-ve-angular-js-aras%C4%B1ndaki-farklar-65dd2f96fc92)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=yunusirmak&color=red"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=yigittosun&color=red"/></p>
 ---
