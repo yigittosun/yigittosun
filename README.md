@@ -13,6 +13,9 @@
   <a href="mailto:yigttos@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+	  <a href="https://yigittosun.com/">
+		<img src="https://img.shields.io/badge/My website-e6f1f7?style=for-the-badge&logo=website&logoColor=white" />
+	</a>
 </p>
 
 ## 📃 Stats
