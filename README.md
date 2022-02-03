@@ -25,9 +25,6 @@
     <a href="#"><img alt="Yiğit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigittosun&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
 </p>
 
-## 📈 Graph
-![Yiğit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yigittosun&hide_border=true&theme=redical)
-
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
