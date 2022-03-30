@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, there!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  <a href="#"><img src="https://media4.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47tb5ij8413snszrm9wnzf54ubtr0afk3rewowqjrn&rid=giphy.gif&ct=g" width="48"></a>
 </h1>
 <h3 align="center"> I'm Yiğit and Software Engineer</h3>
 <p align="center">
