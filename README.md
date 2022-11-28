@@ -21,6 +21,7 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Step by step simple game in js](https://yigttos.medium.com/step-by-step-simple-rock-paper-scissors-game-in-js-c490b2e24eff)
 - [Changes not showing in source control](https://yigttos.medium.com/changes-not-showing-in-source-control-399a97ff011d)
 - [Twitter API with JavaScript](https://yigttos.medium.com/twitter-api-with-javascript-29db810524ea)
 - [Vue.js ve Angular.js arasındaki farklar!](https://yigttos.medium.com/vue-js-ve-angular-js-aras%C4%B1ndaki-farklar-65dd2f96fc92)
