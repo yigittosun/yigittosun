@@ -21,6 +21,7 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build issue “error:0308010C:digital envelope routines::unsupported”](https://yigttos.medium.com/build-issue-error-0308010c-digital-envelope-routines-unsupported-4011b57ea8cd)
 - [Step by step simple game in js](https://yigttos.medium.com/step-by-step-simple-rock-paper-scissors-game-in-js-c490b2e24eff)
 - [Changes not showing in source control](https://yigttos.medium.com/changes-not-showing-in-source-control-399a97ff011d)
 - [Twitter API with JavaScript](https://yigttos.medium.com/twitter-api-with-javascript-29db810524ea)
