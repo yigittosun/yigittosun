@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center"> I'm Yiğit and Software Engineer</h3>
 <p align="center">
-	<a href="https://www.linkedin.com/in/s-yi%C4%9Fit-tosun/" target="_blank">
+	<a href="https://www.linkedin.com/in/s-yigit-tosun/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://yigttos.medium.com/" target="_blank">
@@ -12,9 +12,6 @@
 	</a>
   <a href="mailto:yigttos@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	  <a href="https://yigittosun.com/" target="_blank">
-		<img src="https://img.shields.io/badge/My website-e6f1f7?style=for-the-badge&logo=website&logoColor=white" />
 	</a>
 </p>
 
